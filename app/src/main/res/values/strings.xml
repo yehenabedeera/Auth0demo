@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="com_auth0_client_id">X3LSimGUzPNdSi7o7pbwIej6A9Vht3O7</string>
+    <string name="com_auth0_domain">yehenabedeera.us.auth0.com</string>
+    <string name="login">Log in</string>
+    <string name="logout">Log out</string>
+</resources>
