@@ -105,4 +105,7 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(intent);
         finish();
     }
+
+    //auth_dev_commit_1
+    //auth_sub_dev2_commit1
 }
